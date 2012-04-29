@@ -1,0 +1,4 @@
+# My solution to the Quora Classifier problem in Codesprint 2 (Interviewstreet)
+# It's basically a Naive Bayes classifier assuming the prior to be equally probable
+# First step is to classify whether nodes are discrete or continuous. Continuous nodes are assumed to have a Normal distribution.
+# Then training and classification is done. It's quite a hack! :)

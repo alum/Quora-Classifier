@@ -1,10 +1,8 @@
 import math
 import copy
 #
-# Using a Naive Bayes classifier assuming the prior to be equally probable (prior = 0.5)
 # Written by Filip Bonnevier
 #
-# Cleaned up some commented print statements etc.
 
 # Global variables
 classifier_params = [[],[]]
